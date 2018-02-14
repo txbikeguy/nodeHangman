@@ -1,0 +1,27 @@
+{
+  "name": "nodehangman",
+  "version": "1.0.0",
+  "description": "node application letting the user play hangman in the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txbikeguy/nodeHangman.git"
+  },
+  "keywords": [
+    "hangman",
+    "node"
+  ],
+  "author": "Ben Cross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/txbikeguy/nodeHangman/issues"
+  },
+  "homepage": "https://github.com/txbikeguy/nodeHangman#readme",
+  "devDependencies": {
+    "inquirer": "^5.1.0",
+    "is-letter": "^1.1.1"
+  }
+}
